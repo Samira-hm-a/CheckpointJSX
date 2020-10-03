@@ -1,0 +1,22 @@
+body {
+    background-color: #ffd571;
+   
+  }
+.title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 4em;
+    margin-top:2%;
+}
+.red{
+    color: red;
+    }
+   
+  .container {
+      display: flexbox;
+      justify-content: space-between;
+      padding-right: 15px;
+      margin:0px;  
+  }
+  video {
+    margin-top: 0.5%;
+}
